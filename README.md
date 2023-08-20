@@ -9,5 +9,7 @@
 <p align="center">
     <img src="dashboard view (2).png" width="600">
 </p>
-Link to [Interactive Dashboard](https://github.com/Vikashpandey98/Ecommerce-sales-dashboard/blob/main/ecommerce%20sales%20dashboard.pbix)
+
+
+Link to [Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiOTBlMGUzYTktZDliNS00YThmLWJmMjctZDcxMmZmYTQwMDQ4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
