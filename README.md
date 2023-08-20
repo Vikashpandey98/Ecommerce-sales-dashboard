@@ -6,6 +6,8 @@
 - Employed a variety of customized visualizations, including bar charts, pie charts, donut charts, clustered bar charts, scatter plots, line graphs, area charts, maps, and slicers, for enhanced data representation and engagement.
 ## Project Visualization
 
-![Dashboard](dashboard view (2).png)
-
+<p align="center">
+    <img src="dashboard view (2).png" width="600">
+</p>
+Link to [Interactive Dashboard](https://github.com/Vikashpandey98/Ecommerce-sales-dashboard/blob/main/ecommerce%20sales%20dashboard.pbix)
 
